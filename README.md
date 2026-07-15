@@ -147,4 +147,4 @@ The application reverts to its hardcoded seeds (0 and 1) upon startup. This illu
 ---
 ### Author
 
-#### Fahd Ashraf FaroukA
+#### Fahd Ashraf Farouk
