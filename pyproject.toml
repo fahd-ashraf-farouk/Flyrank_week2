@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Flyrank-task"
+description = "Task of week2 first API task"
+version = "0.1.0"
+authors = [{name = "Fahd Ashraf Farouk", email="ashraffahd@gmail.com"}]
+readme = "README.md"
+
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "pydantic"
+]
+
